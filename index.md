@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kursat Gursoy's GitHub Pages
+
+This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-kursatgursoy/) created for IE 582 course at Bogazici University.
 
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall21-kursatgursoy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
