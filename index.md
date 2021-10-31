@@ -4,7 +4,7 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-kursatg
 
 ## Homework Assignments
 
-Homework assignments will be posted on this page.
+Homework assignments will be posted on this page for IE582 course.
 
 ### Homework Assignment 1
 
