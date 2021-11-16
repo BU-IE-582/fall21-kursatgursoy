@@ -15,7 +15,8 @@ Homework assignments will be posted on this page for IE582 course.
 ### Homework Assignment 2
 
 * [Description of Homework 2](HW2_Files/IE582_Fall21_Homework2.pdf)
-* [Homework 2 Codes & Outputs](https://bu-ie-582.github.io/fall21-kursatgursoy/HW2_Files/HW2_Final.html)
+* [Homework 2 Codes & Outputs | .html file](https://bu-ie-582.github.io/fall21-kursatgursoy/HW2_Files/HW2_Final.html)
+* [Homework 2 Codes | .ipynb File](https://bu-ie-582.github.io/fall21-kursatgursoy/HW2_Files/HW2_Final.ipynb)
 
 
 
