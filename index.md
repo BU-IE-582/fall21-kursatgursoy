@@ -24,5 +24,9 @@ Homework assignments will be posted on this page for IE582 course.
 * [Homework 3 Codes & Outputs html file](HW3_Files/HW3_Final.html)
 * [Homework 3 Codes ipynb File](HW3_Files/HW3_Final.ipynb)
 
+### Homework Assignment 4
 
+* [Description of Homework 4](HW4_Files/IE582_Fall21_Homework4.pdf)
+* [Homework 4 Codes & Outputs html file](HW4_Files/HW4_Final.html)
+* [Homework 4 Codes ipynb File](HW4_Files/HW4_Final.ipynb)
 
