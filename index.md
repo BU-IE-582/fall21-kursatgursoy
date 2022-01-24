@@ -30,3 +30,6 @@ Homework assignments will be posted on this page for IE582 course.
 * [Homework 4 Codes & Outputs html file](HW4_Files/HW4_Final.html)
 * [Homework 4 Codes ipynb File](HW4_Files/HW4_Final.ipynb)
 
+### Project
+
+* [Project](IE582_Fall21_Homework4.pdf)
