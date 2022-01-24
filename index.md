@@ -32,4 +32,4 @@ Homework assignments will be posted on this page for IE582 course.
 
 ### Project
 
-* [Project](IE582_Fall21_Homework4.pdf)
+* [Project](IE_582_Project.pdf)
