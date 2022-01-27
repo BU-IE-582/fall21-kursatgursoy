@@ -33,3 +33,9 @@ Homework assignments will be posted on this page for IE582 course.
 ### Project
 
 * [Project](IE_582_Project.pdf)
+
+### Homework Assignment 5 (Optional)
+
+* [Homework 5 Codes & Outputs html file](HW5_Files/HW5_Final.html)
+* [Homework 5 Codes ipynb File](HW5_Files/HW5_Final.ipynb)
+* [Homework 5 Output csv File](HW5_Files/HW5_test_predictions.csv)
